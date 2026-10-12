@@ -7,10 +7,10 @@
 [ext_resource type="Texture2D" uid="uid://dkyj1r0kiq7q" path="res://new_characters/opponent_hit_1.png" id="4_5ooci"]
 [ext_resource type="PackedScene" uid="uid://81nsjrqooj2h" path="res://assets/moon_rock_03_1k/moon_rock_03_1k.gltf" id="4_k80m0"]
 [ext_resource type="PackedScene" uid="uid://vl710yhv68uj" path="res://assets/rusty_scissors/scene.gltf" id="5_bj06q"]
-[ext_resource type="Animation" uid="uid://iug2t24mqvbc" path="res://new_characters/opponent_hit_anim.res" id="5_g88pw"]
-[ext_resource type="Animation" uid="uid://v822qps3o8vu" path="res://new_characters/opponent_idle_anim.res" id="6_5ooci"]
-[ext_resource type="Animation" uid="uid://ku8rnwhbngj4" path="res://new_characters/opponent_slap_anim.res" id="7_g88pw"]
-[ext_resource type="Animation" uid="uid://b1ggv5avx6f7p" path="res://new_characters/reveal.res" id="10_g88pw"]
+[ext_resource type="Animation" uid="uid://u8saj4vx4itx" path="res://new_characters/opponent_hit_anim.res" id="5_g88pw"]
+[ext_resource type="Animation" uid="uid://cpmnjdymkjov2" path="res://new_characters/opponent_idle_anim.res" id="6_5ooci"]
+[ext_resource type="Animation" uid="uid://bhbggbjgo6xsg" path="res://new_characters/opponent_slap_anim.res" id="7_g88pw"]
+[ext_resource type="Animation" uid="uid://cabfgj0shs382" path="res://new_characters/reveal.res" id="10_g88pw"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_8ve2o"]
 resource_name = "yaku_zombie_material"
